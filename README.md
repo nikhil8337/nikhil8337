@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhil8337
+- 👋 Hi, I’m nikhil katwe
 - 👀 I’m interested in data analysis and data science 
 - 🌱 I’m currently working as a data analyst in Tata Motors for electric vehicle
 
